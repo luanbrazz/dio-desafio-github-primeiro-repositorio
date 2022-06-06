@@ -17,6 +17,18 @@ Subir modificações no repositório remoto:
 git push
 
 
+PASSO A PASSO CRIAR REPOSITORIO E REALIZAR ATUALIZAÇÕES:
+1 - git clone git@github.com:luan...(abrir pasta antes pele git bash)
+2 - cd "pasta repositorio"
+3 - git status
+4 - git add .
+5 - git status
+6 - git commit -m "Inclusão ..."
+7 - git status
+8 - git push origin main
+
+
+
 
 
 
