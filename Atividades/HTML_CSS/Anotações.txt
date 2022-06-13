@@ -1,0 +1,218 @@
+ATRIBUTOS CSS
+background
+Cor de fundo, imagem, transparência.
+
+background-attachment
+Rolagem do fundo / Marca d'água.
+
+background-image
+Imagem de fundo.
+
+background-color
+Cor de fundo ou transparência.
+
+background-position
+Posicionamento da imagem de fundo.
+
+background-repeat
+Configuração lado-a-lado da imagem de fundo.
+
+border
+Largura, estilo e cor de todas as 4 bordas.
+
+border-bottom
+Largura, estilo e cor da borda inferior.
+
+border-bottom-color
+Cor da citada borda.
+
+border-bottom-style
+Estilo da citada borda.
+
+border-bottom-width
+Largura da citada borda.
+
+border-color
+Cor das 4 bordas.
+
+border-left
+Largura, estilo e cor da borda esquerda.
+
+border-left-color
+Cor da borda citada.
+
+border-left-style
+Estilo da borda citada.
+
+border-left-width
+Largura da borda citada.
+
+border-right
+Largura, estilo e cor da borda direita.
+
+border-right-color
+Cor da borda citada.
+
+border-right-style
+Estilo da borda citada.
+
+border-right-width
+Largura da borda citada.
+
+border-style
+Estilo de todas as 4 boras.
+
+border-top
+Largura, estilo e cor da borda superior.
+
+border-top-color
+Cor da borda citada.
+
+border-top-style
+Estilo da borda citada.
+
+border-top-width
+Largura da borda citada.
+
+border-width
+Largura de todas as 4 bordas.
+
+clear
+Elementos flutuantes à esquerda ou à direita de um elemento.
+
+clip
+Parte visível de um elemento.
+
+color
+Cor de primeiro plano.
+
+cursor
+Tipo de ponteiro do mouse.
+
+display
+Se o elemento é exibido e o espaço é reservado para ele.
+
+filter
+Tipo de filtro aplicado ao elemento.
+
+float
+Se o elemento flutua.
+
+font
+Estilo, variante, peso, tamanho e altura da linha do tipo de fonte.
+
+@font-face
+Incorporação da fonte ao arquivo HTML.
+
+font-family
+Tipo de fonte.
+
+font-size
+Tamanho da fonte.
+
+font-style
+Fonte itálico.
+
+Fonte-variant
+Fonte bold.
+
+font-weight
+Peso da fonte de claro a negrito.
+
+height
+Altura exibida ao elemento.
+
+@import
+Folha de estilo a importar.
+
+left
+Posição do elemento em relação a margem esquerda da página.
+
+letter-spacing
+
+Distância entre as letras.
+
+line-height
+Distância entre linhas de base.
+
+list-style
+Tipo, imagem e posição do estilo da lista.
+
+list-style-image
+Marcador de item de lista.
+
+list-style-position
+Posição do marcador de item da lista.
+
+list-style-type
+Marcador de item de lista alternativo.
+
+margin
+Tamanho de todas as 4 margens.
+
+margin-left
+Tamanho da margem esquerda.
+
+margin-right
+Tamanho da margem direita.
+
+margin-bottom
+Tamanho da margem inferior.
+
+margin-top
+Tamanho da margem superior.
+
+overflow
+Exibição de imagens que são maiores do que suas molduras.
+
+padding
+Espaço em torno de um elemento em todos os lados.
+
+padding-bottom
+Espaço a partir da margem inferior de um elemento.
+
+padding-left
+Espaço à esquerda do elemento.
+
+padding-right
+Espaço à direita do elemento.
+
+padding-top
+Espaço a partir da margem superior do elemento.
+
+page-break-after
+Inserir quebra de página depois de um elemento.
+
+page-break-before
+Inserir quebra de página antes de um elemento.
+
+position
+Como o elemento é posicionado na página.
+
+text-align
+Alinhamento do texto.
+
+text-decoration
+Sublinhado, sobrelinhado ou riscado.
+
+text-indent
+Recuo da primeira linha do parágrafo.
+
+text-transform
+Transformação para todas maiúsculas, minúsculas ou inicial maiúscula.
+
+top
+Posição do elemento em relação a parte superior da página.
+
+vertical-aligN
+
+Alinhamento vertical do elemento.
+
+visibility
+Se elemento é visível ou invisível.
+
+width
+Largura do elemento.
+
+z-index
+Posição do elemento na pilha.
